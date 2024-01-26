@@ -266,7 +266,7 @@ func buildRequest(
 	headers http.Header,
 	urlParams map[string]string,
 ) (req *http.Request, err error) {
-	urlStr := "https://" + host + path
+	urlStr := host + path
 	isCompressionEnabled := shouldCompress(c, method, body)
 
 	if body == nil {
