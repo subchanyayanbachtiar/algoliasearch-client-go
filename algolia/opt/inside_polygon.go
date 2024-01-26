@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"reflect"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/errs"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/errs"
 )
 
 // InsidePolygonOption is a wrapper for an InsidePolygon option parameter. It holds

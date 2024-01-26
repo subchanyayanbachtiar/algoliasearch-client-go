@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/debug"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/opt"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/debug"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/opt"
 )
 
 // Settings represents an index settings configuration.

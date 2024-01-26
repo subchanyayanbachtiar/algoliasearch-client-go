@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/recommend"
 	"github.com/stretchr/testify/require"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/recommend"
 )
 
 type FakeRequester struct {

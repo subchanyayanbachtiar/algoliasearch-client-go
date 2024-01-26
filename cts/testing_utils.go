@@ -15,14 +15,14 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/analytics"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/compression"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/insights"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/personalization"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/region"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/search"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/suggestions"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/transport"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/analytics"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/compression"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/insights"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/personalization"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/region"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/search"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/suggestions"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/transport"
 )
 
 func InitSearchClient1AndIndex(t *testing.T) (*search.Client, *search.Index, string) {

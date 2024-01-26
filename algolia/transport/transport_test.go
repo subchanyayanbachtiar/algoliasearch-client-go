@@ -12,10 +12,10 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/call"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/compression"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/errs"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/opt"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/call"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/compression"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/errs"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/opt"
 )
 
 func TestShouldCompress(t *testing.T) {

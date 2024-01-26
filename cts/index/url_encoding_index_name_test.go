@@ -9,8 +9,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/wait"
-	"github.com/algolia/algoliasearch-client-go/v3/cts"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/wait"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/cts"
 )
 
 func TestEnableURLEncodingIndexName(t *testing.T) {

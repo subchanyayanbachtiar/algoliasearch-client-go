@@ -10,9 +10,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/errs"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/opt"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/search"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/errs"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/opt"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/search"
 )
 
 func TestIntermediateErrors(t *testing.T) {

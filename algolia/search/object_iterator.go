@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/iterator"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/iterator"
 )
 
 // ObjectIterator represents an iterator over records of an index.
@@ -44,9 +44,8 @@ func (it *ObjectIterator) loadNextPage() (err error) {
 // object instead of getting it from the returned empty interface, passes the
 // object to decode to as a first argument of the method, such as:
 //
-//     var obj struct { ... }
-//     _, err := it.Next(&obj)
-//
+//	var obj struct { ... }
+//	_, err := it.Next(&obj)
 func (it *ObjectIterator) Next(opts ...interface{}) (interface{}, error) {
 	// Abort if the user call `Next()` on a IndexIterator that has been
 	// initialized without being able to load the first page.

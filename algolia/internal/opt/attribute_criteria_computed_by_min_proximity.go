@@ -3,7 +3,7 @@
 package opt
 
 import (
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/opt"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/opt"
 )
 
 // ExtractAttributeCriteriaComputedByMinProximity returns the first found AttributeCriteriaComputedByMinProximityOption from the

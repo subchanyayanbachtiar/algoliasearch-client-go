@@ -5,10 +5,10 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/errs"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/opt"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/personalization"
-	"github.com/algolia/algoliasearch-client-go/v3/cts"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/errs"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/opt"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/personalization"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/cts"
 )
 
 func TestPersonalizationStrategy(t *testing.T) {

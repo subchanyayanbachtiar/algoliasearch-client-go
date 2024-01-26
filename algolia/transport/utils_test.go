@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/call"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/call"
 )
 
 func TestShuffle(t *testing.T) {

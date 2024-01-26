@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/opt"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/opt"
 )
 
 // Rule represents an Algolia query rule.

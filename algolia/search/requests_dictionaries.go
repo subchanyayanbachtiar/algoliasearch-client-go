@@ -1,8 +1,8 @@
 package search
 
 import (
-	iopt "github.com/algolia/algoliasearch-client-go/v3/algolia/internal/opt"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/opt"
+	iopt "github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/internal/opt"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/opt"
 )
 
 type dictionaryEntryRequest struct {

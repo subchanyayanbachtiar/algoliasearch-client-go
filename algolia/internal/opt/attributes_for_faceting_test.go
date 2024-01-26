@@ -6,8 +6,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/opt"
 	"github.com/stretchr/testify/require"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/opt"
 )
 
 func TestAttributesForFaceting(t *testing.T) {

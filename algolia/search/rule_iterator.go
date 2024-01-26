@@ -3,7 +3,7 @@ package search
 import (
 	"io"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/debug"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/debug"
 )
 
 type RuleIterator struct {

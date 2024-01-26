@@ -3,9 +3,9 @@ package insights
 import (
 	"net/http"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/call"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/compression"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/transport"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/call"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/compression"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/transport"
 )
 
 // Client provides methods to interact with the Algolia Insights API.

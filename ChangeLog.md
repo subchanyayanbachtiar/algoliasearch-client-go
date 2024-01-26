@@ -1,426 +1,426 @@
 # ChangeLog
 
-## [3.31.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.30.1...v3.31.0) (2023-08-25)
+## [3.31.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.30.1...v3.31.0) (2023-08-25)
 
 ## Fix
 
-- fix(rules): missing redirect field in RuleConsequence (#740) ([0ed3836](https://github.com/algolia/algoliasearch-client-go/commit/0ed3836))
+- fix(rules): missing redirect field in RuleConsequence (#740) ([0ed3836](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/0ed3836))
 
-## [3.30.1](https://github.com/algolia/algoliasearch-client-go/compare/v3.30.0...v3.30.1) (2023-06-05)
+## [3.30.1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.30.0...v3.30.1) (2023-06-05)
 
 ## Fix
 
-- fix(transport): allow to override existing header with extra headers (#738) ([62653fc](https://github.com/algolia/algoliasearch-client-go/commit/62653fc))
+- fix(transport): allow to override existing header with extra headers (#738) ([62653fc](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/62653fc))
 
-## [3.30.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.29.4...v3.30.0) (2023-06-06)
+## [3.30.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.29.4...v3.30.0) (2023-06-06)
 
 ## Feat
 
-- feat(renderingContent): parse the redirect attribute (#737) ([1032659](https://github.com/algolia/algoliasearch-client-go/commit/1032659))
+- feat(renderingContent): parse the redirect attribute (#737) ([1032659](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/1032659))
 
-## [3.29.4](https://github.com/algolia/algoliasearch-client-go/compare/v3.29.2...v3.29.4) (2023-05-22)
-
-## Fix
-
-- fix(recommend): implement dedicated waitRecommendTask function (#736) ([f053623](https://github.com/algolia/algoliasearch-client-go/commit/f053623))
-
-## [3.29.2](https://github.com/algolia/algoliasearch-client-go/compare/v3.29.1...v3.29.2) (2023-05-11)
+## [3.29.4](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.29.2...v3.29.4) (2023-05-22)
 
 ## Fix
 
-- fix(recommend): Handle taskIDs below 1000 as index scope (#734) ([c1be0f7](https://github.com/algolia/algoliasearch-client-go/commit/c1be0f7))
+- fix(recommend): implement dedicated waitRecommendTask function (#736) ([f053623](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/f053623))
 
-## [3.29.1](https://github.com/algolia/algoliasearch-client-go/compare/v3.29.0...v3.29.1) (2023-05-09)
+## [3.29.2](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.29.1...v3.29.2) (2023-05-11)
 
 ## Fix
 
-- fix(recommend): Add missing slash in a Recommend URL path (#732) ([77887f4](https://github.com/algolia/algoliasearch-client-go/commit/77887f4))
+- fix(recommend): Handle taskIDs below 1000 as index scope (#734) ([c1be0f7](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/c1be0f7))
 
-## [3.29.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.28.0...v3.29.0) (2023-05-09)
+## [3.29.1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.29.0...v3.29.1) (2023-05-09)
+
+## Fix
+
+- fix(recommend): Add missing slash in a Recommend URL path (#732) ([77887f4](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/77887f4))
+
+## [3.29.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.28.0...v3.29.0) (2023-05-09)
 
 ## Feat
 
-- feat(recommend): implement Recommend-level waitTask (#730) ([c08a853](https://github.com/algolia/algoliasearch-client-go/commit/c08a853))
+- feat(recommend): implement Recommend-level waitTask (#730) ([c08a853](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/c08a853))
 
-## [3.28.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.27.0...v3.28.0) (2023-04-13)
+## [3.28.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.27.0...v3.28.0) (2023-04-13)
 
 ## Feat
 
--  allow to set a custom delay for the wait functions (#726) ([0d078b3](https://github.com/algolia/algoliasearch-client-go/commit/0d078b3))
-- **abtests**: add index_prefix and index_suffix options for ab_testing (#725) ([cede093](https://github.com/algolia/algoliasearch-client-go/commit/cede093))
+-  allow to set a custom delay for the wait functions (#726) ([0d078b3](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/0d078b3))
+- **abtests**: add index_prefix and index_suffix options for ab_testing (#725) ([cede093](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/cede093))
 
-## [3.27.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.26.5...v3.27.0) (2023-03-30)
+## [3.27.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.26.5...v3.27.0) (2023-03-30)
 
 ### Feat
 
-- add support of tags parsing in rules (#722) ([6bc0750](https://github.com/algolia/algoliasearch-client-go/commit/6bc0750))
+- add support of tags parsing in rules (#722) ([6bc0750](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/6bc0750))
 
 ### Fix
 
-- support both schemas at the same time in rule consequence params (#721) ([1f720e4](https://github.com/algolia/algoliasearch-client-go/commit/1f720e4))
+- support both schemas at the same time in rule consequence params (#721) ([1f720e4](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/1f720e4))
 
-## [3.26.5](https://github.com/algolia/algoliasearch-client-go/compare/v3.26.4...v3.26.5) (2023-03-29)
-
-### Fix
-
-- set default value to string slices to prevent `null` unmarshalling (#720) ([2de552a](https://github.com/algolia/algoliasearch-client-go/commit/2de552a))
-
-
-
-## [3.26.4](https://github.com/algolia/algoliasearch-client-go/compare/v3.26.3...v3.26.4) (2023-02-24)
+## [3.26.5](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.26.4...v3.26.5) (2023-03-29)
 
 ### Fix
 
-- handle composableFilterOption deserialization for legacy usage (#718) ([301a2c5](https://github.com/algolia/algoliasearch-client-go/commit/301a2c5))
+- set default value to string slices to prevent `null` unmarshalling (#720) ([2de552a](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/2de552a))
 
 
 
-## [3.26.3](https://github.com/algolia/algoliasearch-client-go/compare/3.26.2...v3.26.3) (2023-02-16)
+## [3.26.4](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.26.3...v3.26.4) (2023-02-24)
 
 ### Fix
 
-- composableFilterOption deserialization fixed (#717) ([b3a3422](https://github.com/algolia/algoliasearch-client-go/commit/b3a3422))
+- handle composableFilterOption deserialization for legacy usage (#718) ([301a2c5](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/301a2c5))
+
+
+
+## [3.26.3](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/3.26.2...v3.26.3) (2023-02-16)
+
+### Fix
+
+- composableFilterOption deserialization fixed (#717) ([b3a3422](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/b3a3422))
 
 ### Misc
 
-- fix(search) handle automaticFacetFilters unmarshal from string (#716) ([e67fb07](https://github.com/algolia/algoliasearch-client-go/commit/e67fb07))
+- fix(search) handle automaticFacetFilters unmarshal from string (#716) ([e67fb07](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/e67fb07))
 
 
 
-## [3.26.2](https://github.com/algolia/algoliasearch-client-go/compare/v3.26.1...3.26.2) (2023-01-18)
-
-### Fix
-
-- **search**: hits in search response are now marshalled as 'hits' (#709) ([f4c0bfd](https://github.com/algolia/algoliasearch-client-go/commit/f4c0bfd))
-
-
-
-
-## [3.26.1](https://github.com/algolia/algoliasearch-client-go/compare/v3.26.0...v3.26.1) (2022-08-31)
+## [3.26.2](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.26.1...3.26.2) (2023-01-18)
 
 ### Fix
 
-- **indexing**: replaceAllObjects blocked if called for non-existent index (#699) ([29468c2](https://github.com/algolia/algoliasearch-client-go/commit/29468c2))
-- **query rules**: Suppress rule condition pattern marshalling in case of empty anchoring (#689) ([dce3e44](https://github.com/algolia/algoliasearch-client-go/commit/dce3e44))
+- **search**: hits in search response are now marshalled as 'hits' (#709) ([f4c0bfd](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/f4c0bfd))
 
 
 
-## [3.26.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.25.0...v3.26.0) (2022-07-04)
 
-### Fix
-
-- **analytics**: add UpdatedAt field to ABTestResponse  (#656) ([c451e58](https://github.com/algolia/algoliasearch-client-go/commit/c451e58))
-
-
-
-## [3.25.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.24.0...v3.25.0) (2022-04-13)
-
-### Feat
-
-- update wait task max wait time (#691) ([96f7484](https://github.com/algolia/algoliasearch-client-go/commit/96f7484))
-
-
-## [3.24.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.23.0...v3.24.0) (2022-03-25)
+## [3.26.1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.26.0...v3.26.1) (2022-08-31)
 
 ### Fix
 
-- Suggestion config bool value support (#690) ([3fea0f7](https://github.com/algolia/algoliasearch-client-go/commit/3fea0f7))
+- **indexing**: replaceAllObjects blocked if called for non-existent index (#699) ([29468c2](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/29468c2))
+- **query rules**: Suppress rule condition pattern marshalling in case of empty anchoring (#689) ([dce3e44](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/dce3e44))
 
 
 
-## [3.23.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.22.0...v3.23.0) (2022-01-11)
-
-### Fix
-
-- reRankingApplyFilter accept same format as facet filters (#688) ([e4b6b96](https://github.com/algolia/algoliasearch-client-go/commit/e4b6b96))
-
-
-
-## [3.22.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.21.0...v3.22.0) (2021-11-08)
-
-### Feat
-
-- **recommend**: implement Recommend client (#679) ([998b1b8](https://github.com/algolia/algoliasearch-client-go/commit/998b1b8))
-
-
-
-## [3.21.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.20.0...v3.21.0) (2021-07-26)
-
-### Feat
-
-- **Reranking**: Implement Reranking extension settings (#676) ([17d46a2](https://github.com/algolia/algoliasearch-client-go/commit/17d46a2))
-- **RenderingContent**: Add the rendering content as a settings field (#674) ([961cee9](https://github.com/algolia/algoliasearch-client-go/commit/961cee9))
+## [3.26.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.25.0...v3.26.0) (2022-07-04)
 
 ### Fix
 
-- Make index.Exists() to return error if status is not 404 (#673) ([15d0de7](https://github.com/algolia/algoliasearch-client-go/commit/15d0de7))
+- **analytics**: add UpdatedAt field to ABTestResponse  (#656) ([c451e58](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/c451e58))
 
 
 
-## [3.20.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.19.0...v3.20.0) (2021-07-05)
-
-### Feat
-
-- **facet ordering**: Dynamic facet ordering support (#668) ([ac10446](https://github.com/algolia/algoliasearch-client-go/commit/ac10446))
-- **virtual indices**: Add virtual indices related params (#661) ([c8b8089](https://github.com/algolia/algoliasearch-client-go/commit/c8b8089))
-- **query suggestions**: Implement client for query suggestions API (#659) ([e638f15](https://github.com/algolia/algoliasearch-client-go/commit/e638f15))
-- **index**: Make it possible to get the index name (#664) ([ae1c159](https://github.com/algolia/algoliasearch-client-go/commit/ae1c159))
-
-
-
-## [3.19.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.18.1...v3.19.0) (2021-06-23)
+## [3.25.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.24.0...v3.25.0) (2022-04-13)
 
 ### Feat
 
-- **QueryRes**: add support for extensions field (#667) ([545ee15](https://github.com/algolia/algoliasearch-client-go/commit/545ee15))
+- update wait task max wait time (#691) ([96f7484](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/96f7484))
 
 
-
-## [3.18.1](https://github.com/algolia/algoliasearch-client-go/compare/v3.18.0...v3.18.1) (2021-04-02)
+## [3.24.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.23.0...v3.24.0) (2022-03-25)
 
 ### Fix
 
-- query parameter support in Search for facet values parameters list (#655) ([c57096a](https://github.com/algolia/algoliasearch-client-go/commit/c57096a))
+- Suggestion config bool value support (#690) ([3fea0f7](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/3fea0f7))
 
 
 
-## [3.18.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.17.0...v3.18.0) (2021-03-26)
+## [3.23.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.22.0...v3.23.0) (2022-01-11)
+
+### Fix
+
+- reRankingApplyFilter accept same format as facet filters (#688) ([e4b6b96](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/e4b6b96))
+
+
+
+## [3.22.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.21.0...v3.22.0) (2021-11-08)
 
 ### Feat
 
-- Dictionaries API methods (#644) ([7fe9a59](https://github.com/algolia/algoliasearch-client-go/commit/7fe9a59))
-- New languages parameters (#645) ([5ad29f7](https://github.com/algolia/algoliasearch-client-go/commit/5ad29f7))
-- Dockerize the repository (#650) ([f429ef6](https://github.com/algolia/algoliasearch-client-go/commit/f429ef6))
+- **recommend**: implement Recommend client (#679) ([998b1b8](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/998b1b8))
 
 
-## [3.17.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.16.0...v3.17.0) (2021-03-08)
+
+## [3.21.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.20.0...v3.21.0) (2021-07-26)
 
 ### Feat
 
-- **ListIndexes**: add primary/replicas fields ([4a14292](https://github.com/algolia/algoliasearch-client-go/commit/4a14292))
-- **Transport**: improve error message on unmarshalTo errors ([686dafa](https://github.com/algolia/algoliasearch-client-go/commit/686dafa))
+- **Reranking**: Implement Reranking extension settings (#676) ([17d46a2](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/17d46a2))
+- **RenderingContent**: Add the rendering content as a settings field (#674) ([961cee9](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/961cee9))
+
+### Fix
+
+- Make index.Exists() to return error if status is not 404 (#673) ([15d0de7](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/15d0de7))
+
+
+
+## [3.20.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.19.0...v3.20.0) (2021-07-05)
+
+### Feat
+
+- **facet ordering**: Dynamic facet ordering support (#668) ([ac10446](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/ac10446))
+- **virtual indices**: Add virtual indices related params (#661) ([c8b8089](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/c8b8089))
+- **query suggestions**: Implement client for query suggestions API (#659) ([e638f15](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/e638f15))
+- **index**: Make it possible to get the index name (#664) ([ae1c159](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/ae1c159))
+
+
+
+## [3.19.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.18.1...v3.19.0) (2021-06-23)
+
+### Feat
+
+- **QueryRes**: add support for extensions field (#667) ([545ee15](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/545ee15))
+
+
+
+## [3.18.1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.18.0...v3.18.1) (2021-04-02)
+
+### Fix
+
+- query parameter support in Search for facet values parameters list (#655) ([c57096a](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/c57096a))
+
+
+
+## [3.18.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.17.0...v3.18.0) (2021-03-26)
+
+### Feat
+
+- Dictionaries API methods (#644) ([7fe9a59](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/7fe9a59))
+- New languages parameters (#645) ([5ad29f7](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/5ad29f7))
+- Dockerize the repository (#650) ([f429ef6](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/f429ef6))
+
+
+## [3.17.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.16.0...v3.17.0) (2021-03-08)
+
+### Feat
+
+- **ListIndexes**: add primary/replicas fields ([4a14292](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/4a14292))
+- **Transport**: improve error message on unmarshalTo errors ([686dafa](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/686dafa))
 
 ### Misc
 
-- add fallback error in case of nil request error ([6cc6bea](https://github.com/algolia/algoliasearch-client-go/commit/6cc6bea))
+- add fallback error in case of nil request error ([6cc6bea](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/6cc6bea))
 
 ### Fix
 
-- panic in case of non-retryable error with nil body ([83d9e98](https://github.com/algolia/algoliasearch-client-go/commit/83d9e98))
+- panic in case of non-retryable error with nil body ([83d9e98](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/83d9e98))
 
 
 
-## [3.16.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.15.1...v3.16.0) (2021-01-30)
+## [3.16.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.15.1...v3.16.0) (2021-01-30)
 
 ### Feat
 
-- **search**: add request options on wait functions ([9488df7](https://github.com/algolia/algoliasearch-client-go/commit/9488df7))
+- **search**: add request options on wait functions ([9488df7](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/9488df7))
 
 
 
-## [3.15.1](https://github.com/algolia/algoliasearch-client-go/compare/v3.15.0...v3.15.1) (2021-01-14)
+## [3.15.1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.15.0...v3.15.1) (2021-01-14)
 
 ### Fix
 
-- correct insights event timestamp conversion to milliseconds and marshalling ([349dabf](https://github.com/algolia/algoliasearch-client-go/commit/349dabf))
+- correct insights event timestamp conversion to milliseconds and marshalling ([349dabf](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/349dabf))
 
 
 
-## [3.15.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.14.0...v3.15.0) (2021-01-06)
+## [3.15.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.14.0...v3.15.0) (2021-01-06)
 
 ### Feat
 
-- **transport**: improve errs.NoMoreHostToTry error message to help investigations ([f8dbf70](https://github.com/algolia/algoliasearch-client-go/commit/f8dbf70))
+- **transport**: improve errs.NoMoreHostToTry error message to help investigations ([f8dbf70](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/f8dbf70))
 
 ### Fix
 
-- **transport**: correctly expose errs.AlgoliaErr when opt.ExposeIntermediateNetworkErrors is passed ([dbee9e4](https://github.com/algolia/algoliasearch-client-go/commit/dbee9e4))
+- **transport**: correctly expose errs.AlgoliaErr when opt.ExposeIntermediateNetworkErrors is passed ([dbee9e4](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/dbee9e4))
 
 
 
-## [3.14.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.13.0...v3.14.0) (2020-11-24)
+## [3.14.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.13.0...v3.14.0) (2020-11-24)
 
 ### Feat
 
-- add filters rule condition and unit tests ([14ee0eb](https://github.com/algolia/algoliasearch-client-go/commit/14ee0eb))
+- add filters rule condition and unit tests ([14ee0eb](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/14ee0eb))
 
 ### Refactor
 
-- add clearExistingSynonyms option and its handling in saveSynonyms method ([3958984](https://github.com/algolia/algoliasearch-client-go/commit/3958984))
+- add clearExistingSynonyms option and its handling in saveSynonyms method ([3958984](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/3958984))
 
 
 
-## [3.13.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.12.1...v3.13.0) (2020-10-15)
+## [3.13.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.12.1...v3.13.0) (2020-10-15)
 
 ### Feat
 
-- Add re-ranking parameters to search parameters and settings ([09f180c](https://github.com/algolia/algoliasearch-client-go/commit/09f180c))
+- Add re-ranking parameters to search parameters and settings ([09f180c](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/09f180c))
 
 
 
-## [3.12.1](https://github.com/algolia/algoliasearch-client-go/compare/v3.12.0...v3.12.1) (2020-10-02)
+## [3.12.1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.12.0...v3.12.1) (2020-10-02)
 
 ### Fix
 
-- **analytics**: correct the click significance type ([28520a2](https://github.com/algolia/algoliasearch-client-go/commit/28520a2))
+- **analytics**: correct the click significance type ([28520a2](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/28520a2))
 
 
 
-## [3.12.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.11.0...v3.12.0) (2020-09-29)
+## [3.12.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.11.0...v3.12.0) (2020-09-29)
 
 ### Fix
 
-- **analytics**: correct AB testing average click pos type ([856378f](https://github.com/algolia/algoliasearch-client-go/commit/856378f))
+- **analytics**: correct AB testing average click pos type ([856378f](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/856378f))
 
 ### Feat
 
-- **analytics**: add tracked search count ([ad7acd1](https://github.com/algolia/algoliasearch-client-go/commit/ad7acd1))
+- **analytics**: add tracked search count ([ad7acd1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/ad7acd1))
 
 
 
-## [3.11.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.10.0...v3.11.0) (2020-08-13)
+## [3.11.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.10.0...v3.11.0) (2020-08-13)
 
 ### Feat
 
-- use correct conversion function to compile in Go 1.15 ([dea59d6](https://github.com/algolia/algoliasearch-client-go/commit/dea59d6))
+- use correct conversion function to compile in Go 1.15 ([dea59d6](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/dea59d6))
 
 ### Refactor
 
-- **batch**: simplify and remove deadcode from automatic batching implementation ([c35bfa7](https://github.com/algolia/algoliasearch-client-go/commit/c35bfa7))
+- **batch**: simplify and remove deadcode from automatic batching implementation ([c35bfa7](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/c35bfa7))
 
 ### Fix
 
-- **search**: make negative values for Configuration.MaxBatchSize default to search.MaxBatchSize ([f11ef86](https://github.com/algolia/algoliasearch-client-go/commit/f11ef86))
+- **search**: make negative values for Configuration.MaxBatchSize default to search.MaxBatchSize ([f11ef86](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/f11ef86))
 
 
 
-## [3.10.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.9.0...v3.10.0) (2020-08-12)
-
-### Feat
-
-- **transport**: make opt.ExposeIntermediateNetworkErrors return errors upon NoMorHostToTryErr ([f604373](https://github.com/algolia/algoliasearch-client-go/commit/f604373))
-- generate new option opt.ExposeIntermediateNetworkErrors ([aaf0de4](https://github.com/algolia/algoliasearch-client-go/commit/aaf0de4))
-- **search**: expose built-in operations for partial updates with PartialUpdateOperation ([d1b7d08](https://github.com/algolia/algoliasearch-client-go/commit/d1b7d08))
-
-
-
-## [3.9.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.8.2...v3.9.0) (2020-07-20)
+## [3.10.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.9.0...v3.10.0) (2020-08-12)
 
 ### Feat
 
-- **rule**: implement multi-condition rules ([e6f5cb6](https://github.com/algolia/algoliasearch-client-go/commit/e6f5cb6))
+- **transport**: make opt.ExposeIntermediateNetworkErrors return errors upon NoMorHostToTryErr ([f604373](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/f604373))
+- generate new option opt.ExposeIntermediateNetworkErrors ([aaf0de4](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/aaf0de4))
+- **search**: expose built-in operations for partial updates with PartialUpdateOperation ([d1b7d08](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/d1b7d08))
 
 
 
-## [3.8.2](https://github.com/algolia/algoliasearch-client-go/compare/v3.8.1...v3.8.2) (2020-07-03)
+## [3.9.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.8.2...v3.9.0) (2020-07-20)
+
+### Feat
+
+- **rule**: implement multi-condition rules ([e6f5cb6](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/e6f5cb6))
+
+
+
+## [3.8.2](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.8.1...v3.8.2) (2020-07-03)
 
 ### Fix
 
-- **transport**: prevent memory leak when many clients are instantiated by multiple goroutines ([0ab393f](https://github.com/algolia/algoliasearch-client-go/commit/0ab393f))
+- **transport**: prevent memory leak when many clients are instantiated by multiple goroutines ([0ab393f](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/0ab393f))
 
 
 
-## [3.8.1](https://github.com/algolia/algoliasearch-client-go/compare/v3.8.0...v3.8.1) (2020-06-26)
+## [3.8.1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.8.0...v3.8.1) (2020-06-26)
 
 ### Fix
 
-- **transport**: correctly URL-encode values (only used by API keys for now) ([c4c2c5e](https://github.com/algolia/algoliasearch-client-go/commit/c4c2c5e))
+- **transport**: correctly URL-encode values (only used by API keys for now) ([c4c2c5e](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/c4c2c5e))
 
 
 
-## [v3.8.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.7.0...v3.8.0) (2020-05-20)
-
-### Feat
-
-- **rule**: expose Rule.RuleConsequence.Promote.ObjectIDs string slice ([2812011](https://github.com/algolia/algoliasearch-client-go/commit/2812011))
-
-
-
-## [3.7.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.6.1...v3.7.0) (2020-05-07)
+## [v3.8.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.7.0...v3.8.0) (2020-05-20)
 
 ### Feat
 
-- **search**: accept enablePersonalization boolean as a valid setting parameter ([7fbc57a](https://github.com/algolia/algoliasearch-client-go/commit/7fbc57a))
-- expose InnerQueries slice in search.LogRes struct ([13b72c6](https://github.com/algolia/algoliasearch-client-go/commit/13b72c6))
-- expose Index string in search.LogRes struct ([49987a1](https://github.com/algolia/algoliasearch-client-go/commit/49987a1))
-- expose Exhaustive boolean in search.LogRes struct ([c2c667a](https://github.com/algolia/algoliasearch-client-go/commit/c2c667a))
-- make all string slice options able to decode comma-separated string ([a667bbc](https://github.com/algolia/algoliasearch-client-go/commit/a667bbc))
-- **search**: expose new search parameter `naturalLanguages` ([1f104d8](https://github.com/algolia/algoliasearch-client-go/commit/1f104d8))
+- **rule**: expose Rule.RuleConsequence.Promote.ObjectIDs string slice ([2812011](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/2812011))
+
+
+
+## [3.7.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.6.1...v3.7.0) (2020-05-07)
+
+### Feat
+
+- **search**: accept enablePersonalization boolean as a valid setting parameter ([7fbc57a](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/7fbc57a))
+- expose InnerQueries slice in search.LogRes struct ([13b72c6](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/13b72c6))
+- expose Index string in search.LogRes struct ([49987a1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/49987a1))
+- expose Exhaustive boolean in search.LogRes struct ([c2c667a](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/c2c667a))
+- make all string slice options able to decode comma-separated string ([a667bbc](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/a667bbc))
+- **search**: expose new search parameter `naturalLanguages` ([1f104d8](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/1f104d8))
 
 ### Refactor
 
-- **transport**: ensure early termination upon context cancellation ([d1ecb1d](https://github.com/algolia/algoliasearch-client-go/commit/d1ecb1d))
-- simplify and add tests for search.LogRes deserialization ([b1f0112](https://github.com/algolia/algoliasearch-client-go/commit/b1f0112))
+- **transport**: ensure early termination upon context cancellation ([d1ecb1d](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/d1ecb1d))
+- simplify and add tests for search.LogRes deserialization ([b1f0112](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/b1f0112))
 
 ### Fix
 
-- use int64 instead of int (32b integers) to represent task IDs everywhere ([ca1e4f0](https://github.com/algolia/algoliasearch-client-go/commit/ca1e4f0))
-- **synonym**: correctly serialize opt.Type (used in SearchSynonyms() queries) ([5d662fc](https://github.com/algolia/algoliasearch-client-go/commit/5d662fc))
-- **recommendation**: add app id to the default config ([e8d59d9](https://github.com/algolia/algoliasearch-client-go/commit/e8d59d9))
+- use int64 instead of int (32b integers) to represent task IDs everywhere ([ca1e4f0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/ca1e4f0))
+- **synonym**: correctly serialize opt.Type (used in SearchSynonyms() queries) ([5d662fc](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/5d662fc))
+- **recommendation**: add app id to the default config ([e8d59d9](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/e8d59d9))
 
 
 
-## [v3.6.1](https://github.com/algolia/algoliasearch-client-go/compare/v3.6.0...v3.6.1) (2020-04-06)
+## [v3.6.1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.6.0...v3.6.1) (2020-04-06)
 
 ### Fix
 
-- **analytics**: accept region.DE instead of region.EU for Analytics client configuration ([372626c](https://github.com/algolia/algoliasearch-client-go/commit/372626c))
+- **analytics**: accept region.DE instead of region.EU for Analytics client configuration ([372626c](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/372626c))
 
 
 
-## [v3.6.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.5.2...v3.6.0) (2020-03-09)
+## [v3.6.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.5.2...v3.6.0) (2020-03-09)
 
 ### Feat
 
-- **mcm**: add Client.HasPendingMappings() method ([bad3abf](https://github.com/algolia/algoliasearch-client-go/commit/bad3abf))
-- **mcm**: learn opt.RetrieveMappings() boolean option ([b7b6204](https://github.com/algolia/algoliasearch-client-go/commit/b7b6204))
-- introduce the new recommendation.Client for Personalization features ([59540fe](https://github.com/algolia/algoliasearch-client-go/commit/59540fe))
+- **mcm**: add Client.HasPendingMappings() method ([bad3abf](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/bad3abf))
+- **mcm**: learn opt.RetrieveMappings() boolean option ([b7b6204](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/b7b6204))
+- introduce the new recommendation.Client for Personalization features ([59540fe](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/59540fe))
 
 ### Fix
 
-- **personalization**: use correct pointer type for one of the Strategy's fields ([56f949f](https://github.com/algolia/algoliasearch-client-go/commit/56f949f))
-- **search**: correctly encode index name in URIs (#574) ([a173d4f](https://github.com/algolia/algoliasearch-client-go/commit/a173d4f))
+- **personalization**: use correct pointer type for one of the Strategy's fields ([56f949f](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/56f949f))
+- **search**: correctly encode index name in URIs (#574) ([a173d4f](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/a173d4f))
 
 
 
-## [v3.5.2](https://github.com/algolia/algoliasearch-client-go/compare/v3.5.1...v3.5.2) (2020-01-24)
-
-### Fix
-
-- implement correct type for `Settings.UserData` ([cc17afa](https://github.com/algolia/algoliasearch-client-go/commit/cc17afa))
-
-
-
-## [v3.5.1](https://github.com/algolia/algoliasearch-client-go/compare/v3.5.0...v3.5.1) (2020-01-24)
+## [v3.5.2](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.5.1...v3.5.2) (2020-01-24)
 
 ### Fix
 
-- correctly decode legacy payload formats for all 'opt.*Filters' types ([5f72d83](https://github.com/algolia/algoliasearch-client-go/commit/5f72d83))
-- **rule**: correctly serialize RuleCondition ([5838029](https://github.com/algolia/algoliasearch-client-go/commit/5838029))
+- implement correct type for `Settings.UserData` ([cc17afa](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/cc17afa))
 
 
 
-## [v3.5.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.4.0...v3.5.0) (2019-12-13)
+## [v3.5.1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.5.0...v3.5.1) (2020-01-24)
+
+### Fix
+
+- correctly decode legacy payload formats for all 'opt.*Filters' types ([5f72d83](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/5f72d83))
+- **rule**: correctly serialize RuleCondition ([5838029](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/5838029))
+
+
+
+## [v3.5.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.4.0...v3.5.0) (2019-12-13)
 
 ### Feat
 
-- **transport**: expose the default HTTP client via transport.DefaultHTTPClient() ([92c12e6](https://github.com/algolia/algoliasearch-client-go/commit/92c12e6))
-- **settings**: introduce customNormalization setting ([5beace1](https://github.com/algolia/algoliasearch-client-go/commit/5beace1))
-- **rule**: introduce Rule.Consequence.FilterPromotes option ([fe16b82](https://github.com/algolia/algoliasearch-client-go/commit/fe16b82))
-- **ab-testing**: introduce new query parameter opt.EnableABTest option ([9a4036f](https://github.com/algolia/algoliasearch-client-go/commit/9a4036f))
-- **search**: implement `Equal()` method for `search.QueryParams` ([5e66c89](https://github.com/algolia/algoliasearch-client-go/commit/5e66c89))
-- **rule**: implement Contextual Query Rules ([f2cdcdd](https://github.com/algolia/algoliasearch-client-go/commit/f2cdcdd))
+- **transport**: expose the default HTTP client via transport.DefaultHTTPClient() ([92c12e6](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/92c12e6))
+- **settings**: introduce customNormalization setting ([5beace1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/5beace1))
+- **rule**: introduce Rule.Consequence.FilterPromotes option ([fe16b82](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/fe16b82))
+- **ab-testing**: introduce new query parameter opt.EnableABTest option ([9a4036f](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/9a4036f))
+- **search**: implement `Equal()` method for `search.QueryParams` ([5e66c89](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/5e66c89))
+- **rule**: implement Contextual Query Rules ([f2cdcdd](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/f2cdcdd))
 
     A query rule's condition and all condition fields are now optional. This
     way, query rules can now be triggered for all queries when
     `opt.RuleContexts` is used at search time.
 
-- **mcm**: add Client.AssignUserIDs() method (#545) ([905a238](https://github.com/algolia/algoliasearch-client-go/commit/905a238))
+- **mcm**: add Client.AssignUserIDs() method (#545) ([905a238](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/905a238))
 
     Multiple MCM user IDs can now be assigned in a single call by using
     `Client.AssignUserIDs()` method.
 
-- **key**: add Client.GetSecuredAPIKeyRemainingValidity() (#536) ([5c7d281](https://github.com/algolia/algoliasearch-client-go/commit/5c7d281))
+- **key**: add Client.GetSecuredAPIKeyRemainingValidity() (#536) ([5c7d281](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/5c7d281))
 
     The remaining validity duration of a secured API generated with the
     `opt.ValidUntil()` parameter can now be checked thanks to the new
@@ -428,25 +428,25 @@
 
 ### Fix
 
-- **ab-test**: expose `CustomSearchParameters` in `analytics.VariantResponse` ([ff1ae10](https://github.com/algolia/algoliasearch-client-go/commit/ff1ae10))
-- correctly type opt.RestrictSources to string instead of []string ([76a4582](https://github.com/algolia/algoliasearch-client-go/commit/76a4582))
-- **opt**: prevent nil dereferences on all `opt.*.Equal()` methods ([86568bd](https://github.com/algolia/algoliasearch-client-go/commit/86568bd))
-- **opt**: prevent nil dereference in Equal() method of literal option types ([c237612](https://github.com/algolia/algoliasearch-client-go/commit/c237612))
-- **mcm**: replace invalid otp.ClusterName with opt.Cluster for SearchUserIDs() ([a7f039c](https://github.com/algolia/algoliasearch-client-go/commit/a7f039c))
+- **ab-test**: expose `CustomSearchParameters` in `analytics.VariantResponse` ([ff1ae10](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/ff1ae10))
+- correctly type opt.RestrictSources to string instead of []string ([76a4582](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/76a4582))
+- **opt**: prevent nil dereferences on all `opt.*.Equal()` methods ([86568bd](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/86568bd))
+- **opt**: prevent nil dereference in Equal() method of literal option types ([c237612](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/c237612))
+- **mcm**: replace invalid otp.ClusterName with opt.Cluster for SearchUserIDs() ([a7f039c](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/a7f039c))
 
 ### Refactor
 
-- **errors**: improve error message for `errs.ErrValidUntilNotFound` ([9d7e6de](https://github.com/algolia/algoliasearch-client-go/commit/9d7e6de))
-- **secured-api-key**: remove errs.ErrValidUntilInvalid ([6844524](https://github.com/algolia/algoliasearch-client-go/commit/6844524))
-- make appropriate changes as recommended by our linter (golangci-lint) ([f17d33a](https://github.com/algolia/algoliasearch-client-go/commit/f17d33a))
+- **errors**: improve error message for `errs.ErrValidUntilNotFound` ([9d7e6de](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/9d7e6de))
+- **secured-api-key**: remove errs.ErrValidUntilInvalid ([6844524](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/6844524))
+- make appropriate changes as recommended by our linter (golangci-lint) ([f17d33a](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/f17d33a))
 
 
 
-## [3.4.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.3.0...v3.4.0) (2019-09-25)
+## [3.4.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.3.0...v3.4.0) (2019-09-25)
 
 ### Fix
 
-- correctly migrate to Go modules by using v3/ suffix for Semantic Import Versioning ([6be7683](https://github.com/algolia/algoliasearch-client-go/commit/6be7683))
+- correctly migrate to Go modules by using v3/ suffix for Semantic Import Versioning ([6be7683](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/6be7683))
 
     **Manual Intervention Required**
 
@@ -458,18 +458,18 @@
     **Step 1/2**
 
     To update your project which depends on the Algolia Go API client, you
-    need to replace all `github.com/algolia/algoliasearch-client-go/*`
-    import statements with `github.com/algolia/algoliasearch-client-go/v3/*`
+    need to replace all `github.com/subchanyayanbachtiar/algoliasearch-client-go/*`
+    import statements with `github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/*`
     instead. The following shell one-liner can be used to perform this
     change:
 
     ```
     for f in $(find . -type f); do
-      sed -i '' 's:github.com/algolia/algoliasearch-client-go:github.com/algolia/algoliasearch-client-go/v3:g' $f
+      sed -i '' 's:github.com/subchanyayanbachtiar/algoliasearch-client-go:github.com/subchanyayanbachtiar/algoliasearch-client-go/v3:g' $f
     done
 
     for f in $(find . -type f); do
-      sed -i 's:github.com/algolia/algoliasearch-client-go:github.com/algolia/algoliasearch-client-go/v3:g' $f
+      sed -i 's:github.com/subchanyayanbachtiar/algoliasearch-client-go:github.com/subchanyayanbachtiar/algoliasearch-client-go/v3:g' $f
     done
     ```
 
@@ -479,105 +479,105 @@
     in your `go.mod` file:
 
     ```
-    require github.com/algolia/algoliasearch-client-go/v3 v3.X.Y
+    require github.com/subchanyayanbachtiar/algoliasearch-client-go/v3 v3.X.Y
     ```
 
     where `v3.X.z` stands for the exact release tag you want to use.
 
 
 
-## [3.3.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.2.1...v3.3.0) (2019-09-06)
+## [3.3.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.2.1...v3.3.0) (2019-09-06)
 
 ### Feat
 
-- **index**: deprecate QueryRes.GetObjectIDPosition in favor of QueryRes.GetObjectPosition ([3564a8e](https://github.com/algolia/algoliasearch-client-go/commit/3564a8e))
-- **index**: deprecate index.FindFirstObject in favor of index.FindObject ([c109b9d](https://github.com/algolia/algoliasearch-client-go/commit/c109b9d))
+- **index**: deprecate QueryRes.GetObjectIDPosition in favor of QueryRes.GetObjectPosition ([3564a8e](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/3564a8e))
+- **index**: deprecate index.FindFirstObject in favor of index.FindObject ([c109b9d](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/c109b9d))
 
     Besides the name, the `doNotPaginate` parameter was also turned into
     `paginate` so the boolean is easier to read and defaults to true.
 
 ### Docs
 
-- **client**: fix ListIndices comment regarding the lack of pagination (#539) ([f0aa5f1](https://github.com/algolia/algoliasearch-client-go/commit/f0aa5f1))
+- **client**: fix ListIndices comment regarding the lack of pagination (#539) ([f0aa5f1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/f0aa5f1))
 
 
 
-## [v3.2.1](https://github.com/algolia/algoliasearch-client-go/compare/v3.2.0...v3.2.1) (2019-08-21)
+## [v3.2.1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.2.0...v3.2.1) (2019-08-21)
 
 ### Fix
 
-- **index**: add missing Exists() method to the IndexInterface (#537) ([c1812b9](https://github.com/algolia/algoliasearch-client-go/commit/c1812b9))
+- **index**: add missing Exists() method to the IndexInterface (#537) ([c1812b9](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/c1812b9))
 
     Because the Exists() method was missing, the Index could not be mocked
     as expected.
 
 
 
-## [v3.2.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.1.0...v3.2.0) (2019-08-20)
+## [v3.2.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.1.0...v3.2.0) (2019-08-20)
 
 ### Feat
 
-- implement QueryRes.GetObjectIDPosition() method ([0940040](https://github.com/algolia/algoliasearch-client-go/commit/0940040))
-- implement Index.FindFirstObject() method ([e30dede](https://github.com/algolia/algoliasearch-client-go/commit/e30dede))
-- generate opt.UserData settings option ([0b94e5f](https://github.com/algolia/algoliasearch-client-go/commit/0b94e5f))
-- **debug**: safely display headers of http.Request ([f70903b](https://github.com/algolia/algoliasearch-client-go/commit/f70903b))
-- compress all POST/PUT Search API requests using GZIP ([a977454](https://github.com/algolia/algoliasearch-client-go/commit/a977454))
+- implement QueryRes.GetObjectIDPosition() method ([0940040](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/0940040))
+- implement Index.FindFirstObject() method ([e30dede](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/e30dede))
+- generate opt.UserData settings option ([0b94e5f](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/0b94e5f))
+- **debug**: safely display headers of http.Request ([f70903b](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/f70903b))
+- compress all POST/PUT Search API requests using GZIP ([a977454](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/a977454))
 
     `search.Configuration.Compression` can be switched between `GZIP`
     (default) and `NONE`, which corresponds to the previous behaviour.
-- **index**: add exists method ([3facc66](https://github.com/algolia/algoliasearch-client-go/commit/3facc66))
+- **index**: add exists method ([3facc66](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/3facc66))
 
 ### Refactor
 
-- **debug**: correctly decode http.Request body even when gzipped ([fcb3933](https://github.com/algolia/algoliasearch-client-go/commit/fcb3933))
-- **transport**: improve body encoding ([a8b5d0a](https://github.com/algolia/algoliasearch-client-go/commit/a8b5d0a))
+- **debug**: correctly decode http.Request body even when gzipped ([fcb3933](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/fcb3933))
+- **transport**: improve body encoding ([a8b5d0a](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/a8b5d0a))
 
     Do not serialize request bodies in-memory (use json.Encoder instead)
 
 ### Fix
 
-- use correct type (string) for QueryRes.AutomaticRadius field ([665327a](https://github.com/algolia/algoliasearch-client-go/commit/665327a))
-- **synonym**: correctly deserialize synonyms set via the Algolia dashboard ([93b9dd4](https://github.com/algolia/algoliasearch-client-go/commit/93b9dd4))
-- avoid to shadow body request with body response in Transport.Request() ([03b6078](https://github.com/algolia/algoliasearch-client-go/commit/03b6078))
+- use correct type (string) for QueryRes.AutomaticRadius field ([665327a](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/665327a))
+- **synonym**: correctly deserialize synonyms set via the Algolia dashboard ([93b9dd4](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/93b9dd4))
+- avoid to shadow body request with body response in Transport.Request() ([03b6078](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/03b6078))
 
 ### Test
 
-- add test for transport.shouldCompress ([d084265](https://github.com/algolia/algoliasearch-client-go/commit/d084265))
+- add test for transport.shouldCompress ([d084265](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/d084265))
 
 
 
-## [v3.1.0](https://github.com/algolia/algoliasearch-client-go/compare/v3.0.0...v3.1.0) (2019-07-08)
+## [v3.1.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/v3.0.0...v3.1.0) (2019-07-08)
 
 ### Doc
 
-- add missing word in comment ([72580fa](https://github.com/algolia/algoliasearch-client-go/commit/72580fa))
-- Fix link and code snippet in README.md ([434de6f](https://github.com/algolia/algoliasearch-client-go/commit/434de6f))
-- Update README.md with new guidelines ([2dcbc98](https://github.com/algolia/algoliasearch-client-go/commit/2dcbc98))
+- add missing word in comment ([72580fa](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/72580fa))
+- Fix link and code snippet in README.md ([434de6f](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/434de6f))
+- Update README.md with new guidelines ([2dcbc98](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/2dcbc98))
 
 ### Fix
 
-- update analytics regional host name template ([486e444](https://github.com/algolia/algoliasearch-client-go/commit/486e444))
+- update analytics regional host name template ([486e444](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/486e444))
 
 ### Perf
 
-- improve performances of objectID JSON tag detection ([01f60c0](https://github.com/algolia/algoliasearch-client-go/commit/01f60c0))
-- benchmarks for getObjectID/hasObjectID functions ([ade2c11](https://github.com/algolia/algoliasearch-client-go/commit/ade2c11))
+- improve performances of objectID JSON tag detection ([01f60c0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/01f60c0))
+- benchmarks for getObjectID/hasObjectID functions ([ade2c11](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/ade2c11))
 
 ### Added
 
-- generate opt.AttributeCriteriaComputedByMinProximity settings/search option ([4c56d65](https://github.com/algolia/algoliasearch-client-go/commit/4c56d65))
-- generate opt.SimilarQuery search option ([66657d7](https://github.com/algolia/algoliasearch-client-go/commit/66657d7))
-- searchParams.ExtraParams field and searchParams.MarshalJSON() function ([6c02803](https://github.com/algolia/algoliasearch-client-go/commit/6c02803))
-- generate opt.ExtraOptions(map[string]interface{}) option ([39c6ad7](https://github.com/algolia/algoliasearch-client-go/commit/39c6ad7))
+- generate opt.AttributeCriteriaComputedByMinProximity settings/search option ([4c56d65](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/4c56d65))
+- generate opt.SimilarQuery search option ([66657d7](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/66657d7))
+- searchParams.ExtraParams field and searchParams.MarshalJSON() function ([6c02803](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/6c02803))
+- generate opt.ExtraOptions(map[string]interface{}) option ([39c6ad7](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/39c6ad7))
 
 ### Test
 
-- ensure nested arrays (opt.FacetFilters-like) are correctly URL-encoded (#488) ([bd1fa91](https://github.com/algolia/algoliasearch-client-go/commit/bd1fa91))
-- Add test to ensure opt.ExtraOptions overrides other options ([e77ed2b](https://github.com/algolia/algoliasearch-client-go/commit/e77ed2b))
+- ensure nested arrays (opt.FacetFilters-like) are correctly URL-encoded (#488) ([bd1fa91](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/bd1fa91))
+- Add test to ensure opt.ExtraOptions overrides other options ([e77ed2b](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/e77ed2b))
 
 
 
-## [v2.28.0](https://github.com/algolia/algoliasearch-client-go/compare/2.27.0...v2.28.0) (2019-04-10)
+## [v2.28.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/2.27.0...v2.28.0) (2019-04-10)
 
 ### Summary
 
@@ -591,14 +591,14 @@ string `objectID` field.
 
 ### Changes
 
-- **fixed:** Correctly retrieve objectIDs using GetObjects ([3627c49](https://github.com/algolia/algoliasearch-client-go/commit/3627c49))
-- **chore:** Add support for Go modules ([bf0837e](https://github.com/algolia/algoliasearch-client-go/commit/bf0837e))
-- **added:** implement Client.RestoreAPIKey ([80d92fc](https://github.com/algolia/algoliasearch-client-go/commit/80d92fc))
-- **added:** ABTest variants now support customSearchParameters ([4aced06](https://github.com/algolia/algoliasearch-client-go/commit/))
-- **added:** Support for query/setting parameter advancedSyntaxFeatures ([2126069](https://github.com/algolia/algoliasearch-client-go/commit/2126069))
-- **added:** Type-check enablePersonalization search parameter (boolean) ([6da8f27](https://github.com/algolia/algoliasearch-client-go/commit/6da8f27))
+- **fixed:** Correctly retrieve objectIDs using GetObjects ([3627c49](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/3627c49))
+- **chore:** Add support for Go modules ([bf0837e](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/bf0837e))
+- **added:** implement Client.RestoreAPIKey ([80d92fc](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/80d92fc))
+- **added:** ABTest variants now support customSearchParameters ([4aced06](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/))
+- **added:** Support for query/setting parameter advancedSyntaxFeatures ([2126069](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/2126069))
+- **added:** Type-check enablePersonalization search parameter (boolean) ([6da8f27](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/6da8f27))
 
-# [2.27.0](https://github.com/algolia/algoliasearch-client-go/compare/2.26.1...2.27.0) (2018-12-17)
+# [2.27.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/2.26.1...2.27.0) (2018-12-17)
 
 ### Summary
 
@@ -611,13 +611,13 @@ retrieving the Personalization strategy of an Algolia application.
 
 ### Changes
 
-- **added:** Implement Personalization-related methods ([0ab7e0b](https://github.com/algolia/algoliasearch-client-go/commit/0ab7e0b))
-- **added:** Implement Insights client and related methods ([0d8fdd3](https://github.com/algolia/algoliasearch-client-go/commit/0d8fdd3))
-- **changed:** Handle calls to https://insights.algolia.io in transport layer ([0ef2010](https://github.com/algolia/algoliasearch-client-go/commit/0ef2010))
-- **removed:** Delete useless Secured API Key tests (better covered in CTS in the v3) ([713245f](https://github.com/algolia/algoliasearch-client-go/commit/713245f))
-- **chore:** Remove useless Glide configuration ([a8eb049](https://github.com/algolia/algoliasearch-client-go/commit/a8eb049))
+- **added:** Implement Personalization-related methods ([0ab7e0b](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/0ab7e0b))
+- **added:** Implement Insights client and related methods ([0d8fdd3](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/0d8fdd3))
+- **changed:** Handle calls to https://insights.algolia.io in transport layer ([0ef2010](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/0ef2010))
+- **removed:** Delete useless Secured API Key tests (better covered in CTS in the v3) ([713245f](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/713245f))
+- **chore:** Remove useless Glide configuration ([a8eb049](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/a8eb049))
 
-# [2.26.1](https://github.com/algolia/algoliasearch-client-go/compare/2.26.0...2.26.1) (2018-12-07)
+# [2.26.1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/2.26.0...2.26.1) (2018-12-07)
 
 ### Summary
 
@@ -626,9 +626,9 @@ Quick fix release removing a wrongly inserted deprecation note on
 
 ### Changes
 
-- **fix:** Remove wrong deprecation of `Client.MoveIndex{WithRequestOptions}` ([c5465a5](https://github.com/algolia/algoliasearch-client-go/commit/c5465a5))
+- **fix:** Remove wrong deprecation of `Client.MoveIndex{WithRequestOptions}` ([c5465a5](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/c5465a5))
 
-# [2.26.0](https://github.com/algolia/algoliasearch-client-go/compare/2.25.0...2.26.0) (2018-12-07)
+# [2.26.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/2.25.0...2.26.0) (2018-12-07)
 
 ### Summary
 
@@ -645,27 +645,27 @@ new features:
 
 ### Changes
 
-- **fix:** change AddAPIKey type from read to write ([8465764](https://github.com/algolia/algoliasearch-client-go/commit/8465764))
-- **added:** Implement AccountClient.CopyIndex ([ebe51f5](https://github.com/algolia/algoliasearch-client-go/commit/ebe51f5))
-- **changed:** remove extra empty line ([ddc2dbd](https://github.com/algolia/algoliasearch-client-go/commit/ddc2dbd))
-- **changed:** Use the environment variables from our Common Test Suite for testing ([21bf674](https://github.com/algolia/algoliasearch-client-go/commit/21bf674))
-- **added:** Implement Index.GetAppID and Client.GetAppID methods ([04db81f](https://github.com/algolia/algoliasearch-client-go/commit/04db81f))
-- **added:** Implement Index.ReplaceAll{Objects,Rules,Synonyms} ([1c2e61a](https://github.com/algolia/algoliasearch-client-go/commit/1c2e61a))
-- **deprecated:** Index.{Delete,Clear} replaced by Client.{Delete,Clear}Index ([799eff0](https://github.com/algolia/algoliasearch-client-go/commit/799eff0))
-- **added:** Implement Client.Copy{Settings,Synonyms,Rules} ([70ffd7d](https://github.com/algolia/algoliasearch-client-go/commit/70ffd7d))
-- **deprecated:** Index.{Copy,Move} replaced by Client.{Copy,Move}Index ([e1d3d27](https://github.com/algolia/algoliasearch-client-go/commit/e1d3d27))
-- **changed:** Deprecate Index.Move method in favor of Index.MoveTo ([0c7497a](https://github.com/algolia/algoliasearch-client-go/commit/0c7497a))
-- **deprecated:** Client.MoveIndex in favor of Index.Move ([31d9996](https://github.com/algolia/algoliasearch-client-go/commit/31d9996))
-- **added:** Add tests for MCM ([52eecbe](https://github.com/algolia/algoliasearch-client-go/commit/52eecbe))
-- **added:** Introduce Multi Cluster Management (MCM) ([53ff241](https://github.com/algolia/algoliasearch-client-go/commit/53ff241))
-- **fix:** objectID is required to deleteObject ([efff124](https://github.com/algolia/algoliasearch-client-go/commit/efff124))
-- **fix:** Add missing types for `facetFilters` ([f71d328](https://github.com/algolia/algoliasearch-client-go/commit/f71d328))
-- **test:** Add tests for Query Rules v2 ([b76d198](https://github.com/algolia/algoliasearch-client-go/commit/b76d198))
-- **feat:** Implement Query Rules v2 ([9bf1d31](https://github.com/algolia/algoliasearch-client-go/commit/9bf1d31))
-- **chore:** Add mitchellh/mapstructure for tests ([47339c0](https://github.com/algolia/algoliasearch-client-go/commit/47339c0))
-- **chore(md):** Update contribution-related files ([83eef94](https://github.com/algolia/algoliasearch-client-go/commit/83eef94))
+- **fix:** change AddAPIKey type from read to write ([8465764](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/8465764))
+- **added:** Implement AccountClient.CopyIndex ([ebe51f5](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/ebe51f5))
+- **changed:** remove extra empty line ([ddc2dbd](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/ddc2dbd))
+- **changed:** Use the environment variables from our Common Test Suite for testing ([21bf674](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/21bf674))
+- **added:** Implement Index.GetAppID and Client.GetAppID methods ([04db81f](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/04db81f))
+- **added:** Implement Index.ReplaceAll{Objects,Rules,Synonyms} ([1c2e61a](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/1c2e61a))
+- **deprecated:** Index.{Delete,Clear} replaced by Client.{Delete,Clear}Index ([799eff0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/799eff0))
+- **added:** Implement Client.Copy{Settings,Synonyms,Rules} ([70ffd7d](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/70ffd7d))
+- **deprecated:** Index.{Copy,Move} replaced by Client.{Copy,Move}Index ([e1d3d27](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/e1d3d27))
+- **changed:** Deprecate Index.Move method in favor of Index.MoveTo ([0c7497a](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/0c7497a))
+- **deprecated:** Client.MoveIndex in favor of Index.Move ([31d9996](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/31d9996))
+- **added:** Add tests for MCM ([52eecbe](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/52eecbe))
+- **added:** Introduce Multi Cluster Management (MCM) ([53ff241](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/53ff241))
+- **fix:** objectID is required to deleteObject ([efff124](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/efff124))
+- **fix:** Add missing types for `facetFilters` ([f71d328](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/f71d328))
+- **test:** Add tests for Query Rules v2 ([b76d198](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/b76d198))
+- **feat:** Implement Query Rules v2 ([9bf1d31](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/9bf1d31))
+- **chore:** Add mitchellh/mapstructure for tests ([47339c0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/47339c0))
+- **chore(md):** Update contribution-related files ([83eef94](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/83eef94))
 
-# [2.25.0](https://github.com/algolia/algoliasearch-client-go/compare/2.24.0...2.25.0) (2018-09-06)
+# [2.25.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/2.24.0...2.25.0) (2018-09-06)
 
 ### Summary
 
@@ -678,15 +678,15 @@ the details of each parameter in [the official Algolia documentation](https://ww
 
 ### Changes
 
-- **chore:** Fix release.sh srcipt to properly update client version in transport.go ([fba4b19](https://github.com/algolia/algoliasearch-client-go/commit/fba4b19))
-- **feat:** Enable type-checking on restrictSources query parameter ([a3afd63](https://github.com/algolia/algoliasearch-client-go/commit/a3afd63))
-- **feat:** Expose decompoundedAttributes as a setting parameter ([d00989d](https://github.com/algolia/algoliasearch-client-go/commit/d00989d))
-- **feat:** Expose camelCaseAttributes as a setting parameter ([815489f](https://github.com/algolia/algoliasearch-client-go/commit/815489f))
-- **feat:** Expose queryLanguages as a setting and search parameter ([6c7e3b6](https://github.com/algolia/algoliasearch-client-go/commit/6c7e3b6))
-- **feat:** Expose keepDiacriticsOnCharacters as a setting parameter ([d9cf86a](https://github.com/algolia/algoliasearch-client-go/commit/d9cf86a))
-- **doc:** Add missing date in ChangeLog.md ([776db89](https://github.com/algolia/algoliasearch-client-go/commit/776db89))
+- **chore:** Fix release.sh srcipt to properly update client version in transport.go ([fba4b19](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/fba4b19))
+- **feat:** Enable type-checking on restrictSources query parameter ([a3afd63](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/a3afd63))
+- **feat:** Expose decompoundedAttributes as a setting parameter ([d00989d](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/d00989d))
+- **feat:** Expose camelCaseAttributes as a setting parameter ([815489f](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/815489f))
+- **feat:** Expose queryLanguages as a setting and search parameter ([6c7e3b6](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/6c7e3b6))
+- **feat:** Expose keepDiacriticsOnCharacters as a setting parameter ([d9cf86a](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/d9cf86a))
+- **doc:** Add missing date in ChangeLog.md ([776db89](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/776db89))
 
-# [2.24.0](https://github.com/algolia/algoliasearch-client-go/compare/2.23.1...2.24.0) (2018-08-24)
+# [2.24.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/2.23.1...2.24.0) (2018-08-24)
 
 ### Summary
 
@@ -718,17 +718,17 @@ greater than 1.
 
 ### Changes
 
-- **feat:** Enable debugging output if ALGOLIA_DEBUG is set ([0cec615](https://github.com/algolia/algoliasearch-client-go/commit/0cec615))
-- **refactor:** Deprecate Client.SetTimeout in favor of Client.Set{Read,Write,Analytics}Timeout methods ([198d9a1](https://github.com/algolia/algoliasearch-client-go/commit/198d9a1))
-- **feat:** Add Client.Set{Read,Write,Analytics}Timeout methods ([c5dd60b](https://github.com/algolia/algoliasearch-client-go/commit/c5dd60b))
-- **chore:** Remove intermediate Go versions to test in Travis ([e9f203e](https://github.com/algolia/algoliasearch-client-go/commit/e9f203e))
-- **test:** Add tests for the RetryStrategy implementation ([642a11a](https://github.com/algolia/algoliasearch-client-go/commit/642a11a))
-- **fix:** Improve retry strategy by reseting default hosts after some time ([dd317c3](https://github.com/algolia/algoliasearch-client-go/commit/dd317c3))
-- **chore:** Upgrade github.com/stretchr/testify dependency from 1.1.4 to 1.2.2 ([65735eb](https://github.com/algolia/algoliasearch-client-go/commit/65735eb))
-- **chore:** Drop support for Go 1.6 ([7f9e66e](https://github.com/algolia/algoliasearch-client-go/commit/7f9e66e))
-- **doc:** Fix list typo in the ChangeLog.md ([eaa9f97](https://github.com/algolia/algoliasearch-client-go/commit/eaa9f97))
+- **feat:** Enable debugging output if ALGOLIA_DEBUG is set ([0cec615](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/0cec615))
+- **refactor:** Deprecate Client.SetTimeout in favor of Client.Set{Read,Write,Analytics}Timeout methods ([198d9a1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/198d9a1))
+- **feat:** Add Client.Set{Read,Write,Analytics}Timeout methods ([c5dd60b](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/c5dd60b))
+- **chore:** Remove intermediate Go versions to test in Travis ([e9f203e](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/e9f203e))
+- **test:** Add tests for the RetryStrategy implementation ([642a11a](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/642a11a))
+- **fix:** Improve retry strategy by reseting default hosts after some time ([dd317c3](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/dd317c3))
+- **chore:** Upgrade github.com/stretchr/testify dependency from 1.1.4 to 1.2.2 ([65735eb](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/65735eb))
+- **chore:** Drop support for Go 1.6 ([7f9e66e](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/7f9e66e))
+- **doc:** Fix list typo in the ChangeLog.md ([eaa9f97](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/eaa9f97))
 
-# [2.23.1](https://github.com/algolia/algoliasearch-client-go/compare/2.23.0...2.23.1) (2018-06-29)
+# [2.23.1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/2.23.0...2.23.1) (2018-06-29)
 
 ### Summary
 
@@ -741,11 +741,11 @@ files.
 
 ### Changes
 
-- **chore:** Add release.sh script ([dd734e0](https://github.com/algolia/algoliasearch-client-go/commit/dd734e0))
-- **fix:** Export missing attributes in Settings.ToMap ([a0ec60a](https://github.com/algolia/algoliasearch-client-go/commit/a0ec60a))
-- **misc:** Update README ([9c969af](https://github.com/algolia/algoliasearch-client-go/commit/9c969af))
+- **chore:** Add release.sh script ([dd734e0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/dd734e0))
+- **fix:** Export missing attributes in Settings.ToMap ([a0ec60a](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/a0ec60a))
+- **misc:** Update README ([9c969af](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/9c969af))
 
-# [2.23.0](https://github.com/algolia/algoliasearch-client-go/compare/2.22.0...2.23.0) (2018-06-19)
+# [2.23.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/2.22.0...2.23.0) (2018-06-19)
 Hello everyone,
 
 Big release today and as you may see, new format for the ChangeLog that we are
@@ -757,77 +757,77 @@ consistency reasons. And as usual, a few fixes regarding some input/response
 types that were wrong.
 
 As usual, feel free to report any issue of question you may have in our [Github
-issue tracker](https://github.com/algolia/algoliasearch-client-go/issues) and
+issue tracker](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/issues) and
 to contribute by submitting your Pull Requests directly to [our Github
-repository](https://github.com/algolia/algoliasearch-client-go/pulls). And for
+repository](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/pulls). And for
 a more detailed assistance regarding Algolia and its features, you may also
 contact us directly at support@algolia.com.
 
 Have a nice day.
 
-- **feat:** Implement AB Testing via the new Analytics handler ([f1e8432](https://github.com/algolia/algoliasearch-client-go/commit/f1e8432))
-- **chore:** Use testify to shorten tests and replace glide with dep ([32bd096](https://github.com/algolia/algoliasearch-client-go/commit/32bd096))
-- **fix:** Expose missing fields related to Query Rules ([def6f71](https://github.com/algolia/algoliasearch-client-go/commit/def6f71))
-- **test:** Look for missing objectID error for BatchOperation ([0e93e1e](https://github.com/algolia/algoliasearch-client-go/commit/0e93e1e))
-- **test:** Minor logs added ([fcd7eef](https://github.com/algolia/algoliasearch-client-go/commit/fcd7eef))
-- **refactor:** Better describe object errors ([cb025d7](https://github.com/algolia/algoliasearch-client-go/commit/cb025d7))
-- **fix:** Prevent invalid batch requests correctly ([355486b](https://github.com/algolia/algoliasearch-client-go/commit/355486b))
-- **feat:** Enforce Rule.ObjectID not to be empty (closes #397) ([22e2592](https://github.com/algolia/algoliasearch-client-go/commit/22e2592))
-- **test:** Use *APIKey methods instead of deprecated *UserKey methods for tests ([5ff7df4](https://github.com/algolia/algoliasearch-client-go/commit/5ff7df4))
-- **test:** Prevent tests from deleting the search-only API key of the application ([16fc6ef](https://github.com/algolia/algoliasearch-client-go/commit/16fc6ef))
-- **refactor:** Deprecate all API key related Index methods in favor of Client ones (closes #413) ([53b957f](https://github.com/algolia/algoliasearch-client-go/commit/53b957f))
-- **feat:** Type-check search parameter sumOrFiltersScores (closes #402) ([0d07917](https://github.com/algolia/algoliasearch-client-go/commit/0d07917))
-- **fix:** Rename mistyped RulePatternAnchoring StarstWith into StartsWith (closes #399) ([1aa19ad](https://github.com/algolia/algoliasearch-client-go/commit/1aa19ad))
-- **fix:** Expose missing ID field in SaveSynonym response (closes #393) ([a83e4dc](https://github.com/algolia/algoliasearch-client-go/commit/a83e4dc))
-- **feat:** Deprecate Index.AddSynonym in favor of Index.SaveSynonym (closes #391) ([d718682](https://github.com/algolia/algoliasearch-client-go/commit/d718682))
-- **feat:** Deprecate Client.ListKeys in favor of Client.ListAPIKeys (closes #390) ([39bd6c1](https://github.com/algolia/algoliasearch-client-go/commit/39bd6c1))
-- **test:** Add integration test for GenerateSecuredAPIKey ([0eae8c2](https://github.com/algolia/algoliasearch-client-go/commit/0eae8c2))
-- **fix:** Remove 'referers' field check for GenerateSecuredAPIKey (closes #388) ([98fb88c](https://github.com/algolia/algoliasearch-client-go/commit/98fb88c))
-- **fix:** Expose missing NbPages field to listIndexesRes (closes #387) ([fe19eb4](https://github.com/algolia/algoliasearch-client-go/commit/fe19eb4))
-- **fix:** Add missing trailing S to IndexRes' NumberOfPendingTasks (closes #386) ([9c72938](https://github.com/algolia/algoliasearch-client-go/commit/9c72938))
-- **fix:** Use correct return type for DeleteBy (closes #383) ([bddeb63](https://github.com/algolia/algoliasearch-client-go/commit/bddeb63))
-- **feat:** Expose processed boolean for MultipleQueriesRes when using stopIfEnoughMatchesStrategy (closes #379) ([58a1cd1](https://github.com/algolia/algoliasearch-client-go/commit/58a1cd1))
-- **feat:** Expose exhaustiveFacetsCount boolean in SearchFacetRes (closes #377) ([fb4ba25](https://github.com/algolia/algoliasearch-client-go/commit/fb4ba25))
+- **feat:** Implement AB Testing via the new Analytics handler ([f1e8432](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/f1e8432))
+- **chore:** Use testify to shorten tests and replace glide with dep ([32bd096](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/32bd096))
+- **fix:** Expose missing fields related to Query Rules ([def6f71](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/def6f71))
+- **test:** Look for missing objectID error for BatchOperation ([0e93e1e](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/0e93e1e))
+- **test:** Minor logs added ([fcd7eef](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/fcd7eef))
+- **refactor:** Better describe object errors ([cb025d7](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/cb025d7))
+- **fix:** Prevent invalid batch requests correctly ([355486b](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/355486b))
+- **feat:** Enforce Rule.ObjectID not to be empty (closes #397) ([22e2592](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/22e2592))
+- **test:** Use *APIKey methods instead of deprecated *UserKey methods for tests ([5ff7df4](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/5ff7df4))
+- **test:** Prevent tests from deleting the search-only API key of the application ([16fc6ef](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/16fc6ef))
+- **refactor:** Deprecate all API key related Index methods in favor of Client ones (closes #413) ([53b957f](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/53b957f))
+- **feat:** Type-check search parameter sumOrFiltersScores (closes #402) ([0d07917](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/0d07917))
+- **fix:** Rename mistyped RulePatternAnchoring StarstWith into StartsWith (closes #399) ([1aa19ad](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/1aa19ad))
+- **fix:** Expose missing ID field in SaveSynonym response (closes #393) ([a83e4dc](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/a83e4dc))
+- **feat:** Deprecate Index.AddSynonym in favor of Index.SaveSynonym (closes #391) ([d718682](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/d718682))
+- **feat:** Deprecate Client.ListKeys in favor of Client.ListAPIKeys (closes #390) ([39bd6c1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/39bd6c1))
+- **test:** Add integration test for GenerateSecuredAPIKey ([0eae8c2](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/0eae8c2))
+- **fix:** Remove 'referers' field check for GenerateSecuredAPIKey (closes #388) ([98fb88c](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/98fb88c))
+- **fix:** Expose missing NbPages field to listIndexesRes (closes #387) ([fe19eb4](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/fe19eb4))
+- **fix:** Add missing trailing S to IndexRes' NumberOfPendingTasks (closes #386) ([9c72938](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/9c72938))
+- **fix:** Use correct return type for DeleteBy (closes #383) ([bddeb63](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/bddeb63))
+- **feat:** Expose processed boolean for MultipleQueriesRes when using stopIfEnoughMatchesStrategy (closes #379) ([58a1cd1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/58a1cd1))
+- **feat:** Expose exhaustiveFacetsCount boolean in SearchFacetRes (closes #377) ([fb4ba25](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/fb4ba25))
 
-# [2.22.0](https://github.com/algolia/algoliasearch-client-go/compare/2.21.3...2.22.0) (2018-03-26)
-- **feat:** Add clickAnalytics to search option parameters ([7b8d667](https://github.com/algolia/algoliasearch-client-go/commit/7b8d667))
-- **chore:** Update contribution-related files ([af85276](https://github.com/algolia/algoliasearch-client-go/commit/af85276))
-- **chore:** use gotest to have colored tests output ([f3d66ff](https://github.com/algolia/algoliasearch-client-go/commit/f3d66ff))
-- **chore:** reformat .travis.yml ([1290509](https://github.com/algolia/algoliasearch-client-go/commit/1290509))
-- **chore:** test against Go 1.10 in Travis ([4c21ba0](https://github.com/algolia/algoliasearch-client-go/commit/4c21ba0))
-- **test:** Fix typos and printf formats ([05560b2](https://github.com/algolia/algoliasearch-client-go/commit/05560b2))
+# [2.22.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/2.21.3...2.22.0) (2018-03-26)
+- **feat:** Add clickAnalytics to search option parameters ([7b8d667](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/7b8d667))
+- **chore:** Update contribution-related files ([af85276](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/af85276))
+- **chore:** use gotest to have colored tests output ([f3d66ff](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/f3d66ff))
+- **chore:** reformat .travis.yml ([1290509](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/1290509))
+- **chore:** test against Go 1.10 in Travis ([4c21ba0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/4c21ba0))
+- **test:** Fix typos and printf formats ([05560b2](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/05560b2))
 
-# [2.21.3](https://github.com/algolia/algoliasearch-client-go/compare/2.21.2...2.21.3) (2018-02-13)
-- **fix:** Expose missing indexes in Key ([df4fedb](https://github.com/algolia/algoliasearch-client-go/commit/df4fedb))
+# [2.21.3](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/2.21.2...2.21.3) (2018-02-13)
+- **fix:** Expose missing indexes in Key ([df4fedb](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/df4fedb))
 
-# [2.21.2](https://github.com/algolia/algoliasearch-client-go/compare/2.21.1...2.21.2) (2018-02-05)
-- **doc:** Bump to 2.21.2 ([ce90912](https://github.com/algolia/algoliasearch-client-go/commit/ce90912))
-- **fix:** Expose missing maxFacetHits as setting ([1c59801](https://github.com/algolia/algoliasearch-client-go/commit/1c59801))
-- **fix:** Expose missing paginationLimitedTo as setting ([5fab01d](https://github.com/algolia/algoliasearch-client-go/commit/5fab01d))
-- **fix:** Expose missing restrictHighlightAndSnippetArrays as setting ([5d02c93](https://github.com/algolia/algoliasearch-client-go/commit/5d02c93))
-- **test:** add 1.9 to travis ([bb6ab50](https://github.com/algolia/algoliasearch-client-go/commit/bb6ab50))
-- **refactor:** use time.Since for passed time ([b718cf5](https://github.com/algolia/algoliasearch-client-go/commit/b718cf5))
-- **refactor:** run gofmt with simplify flag ([1d6924d](https://github.com/algolia/algoliasearch-client-go/commit/1d6924d))
+# [2.21.2](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/2.21.1...2.21.2) (2018-02-05)
+- **doc:** Bump to 2.21.2 ([ce90912](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/ce90912))
+- **fix:** Expose missing maxFacetHits as setting ([1c59801](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/1c59801))
+- **fix:** Expose missing paginationLimitedTo as setting ([5fab01d](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/5fab01d))
+- **fix:** Expose missing restrictHighlightAndSnippetArrays as setting ([5d02c93](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/5d02c93))
+- **test:** add 1.9 to travis ([bb6ab50](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/bb6ab50))
+- **refactor:** use time.Since for passed time ([b718cf5](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/b718cf5))
+- **refactor:** run gofmt with simplify flag ([1d6924d](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/1d6924d))
 
-# [2.21.1](https://github.com/algolia/algoliasearch-client-go/compare/2.21.0...2.21.1) (2017-11-29)
-- **fix:** Add missing removeWordsIfNoResults to settings type ([4628a86](https://github.com/algolia/algoliasearch-client-go/commit/4628a86))
+# [2.21.1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/2.21.0...2.21.1) (2017-11-29)
+- **fix:** Add missing removeWordsIfNoResults to settings type ([4628a86](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/4628a86))
 
-# [2.21.0](https://github.com/algolia/algoliasearch-client-go/compare/2.20.0...2.21.0) (2017-11-14)
-- **test:** Add tests for scoped copy ([4f5d0cd](https://github.com/algolia/algoliasearch-client-go/commit/4f5d0cd))
-- **feat:** Implement scoped copy methods ([3c8e3b1](https://github.com/algolia/algoliasearch-client-go/commit/3c8e3b1))
-- **feat:** Expose SortFacetValuesBy setting ([e9d1386](https://github.com/algolia/algoliasearch-client-go/commit/e9d1386))
+# [2.21.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/2.20.0...2.21.0) (2017-11-14)
+- **test:** Add tests for scoped copy ([4f5d0cd](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/4f5d0cd))
+- **feat:** Implement scoped copy methods ([3c8e3b1](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/3c8e3b1))
+- **feat:** Expose SortFacetValuesBy setting ([e9d1386](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/e9d1386))
 
-# [2.20.0](https://github.com/algolia/algoliasearch-client-go/compare/2.19.1...2.20.0) (2017-10-11)
-- **doc:** Reformat ChangeLog.md ([68257924](https://github.com/algolia/algoliasearch-client-go/commit/68257924))
-- **doc:** Add missing description of 2.19.1 release to the ChangeLog.md ([8114f6e](https://github.com/algolia/algoliasearch-client-go/commit/8114f6e))
-- **feat:** Implement RuleIterator to browse over all the query rules of a given index ([40e35c2](https://github.com/algolia/algoliasearch-client-go/commit/40e35c2))
-- **feat:** Implement SynonymIterator to browse over all the synonyms of a given index ([3554426](https://github.com/algolia/algoliasearch-client-go/commit/3554426))
-- **test:** Remove unused Client parameter from addOneObject function ([13edced](https://github.com/algolia/algoliasearch-client-go/commit/13edced))
-- **fix:** Expose correct highlighting field (_highlightResult not _highlightedResult) for Synonym answers ([688e76a](https://github.com/algolia/algoliasearch-client-go/commit/688e76a))
-- **fix:** Add missing _highlightResult field for Query Rules answers ([666987b](https://github.com/algolia/algoliasearch-client-go/commit/666987b))
-- **test:** Move shared testing code to dedicated functions ([76e0896](https://github.com/algolia/algoliasearch-client-go/commit/76e0896))
-- **refactor:** Remove commented dead code ([b7988cf](https://github.com/algolia/algoliasearch-client-go/commit/b7988cf))
-- **refactor:** Move NoMoreHitsErr definition to a dedicated file ([6e3dff3](https://github.com/algolia/algoliasearch-client-go/commit/6e3dff3))
+# [2.20.0](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/compare/2.19.1...2.20.0) (2017-10-11)
+- **doc:** Reformat ChangeLog.md ([68257924](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/68257924))
+- **doc:** Add missing description of 2.19.1 release to the ChangeLog.md ([8114f6e](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/8114f6e))
+- **feat:** Implement RuleIterator to browse over all the query rules of a given index ([40e35c2](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/40e35c2))
+- **feat:** Implement SynonymIterator to browse over all the synonyms of a given index ([3554426](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/3554426))
+- **test:** Remove unused Client parameter from addOneObject function ([13edced](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/13edced))
+- **fix:** Expose correct highlighting field (_highlightResult not _highlightedResult) for Synonym answers ([688e76a](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/688e76a))
+- **fix:** Add missing _highlightResult field for Query Rules answers ([666987b](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/666987b))
+- **test:** Move shared testing code to dedicated functions ([76e0896](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/76e0896))
+- **refactor:** Remove commented dead code ([b7988cf](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/b7988cf))
+- **refactor:** Move NoMoreHitsErr definition to a dedicated file ([6e3dff3](https://github.com/subchanyayanbachtiar/algoliasearch-client-go/commit/6e3dff3))
 
 # 2.19.1 (2017-09-06)
 ## Changes
@@ -1006,7 +1006,7 @@ Have a nice day.
 # 2.0.0 (2016-06-06)
 - Type every response from the API
 - Add tests
-- Breaking changes listed here: https://github.com/algolia/algoliasearch-client-go/wiki/Migration-guide-to-version-2.x
+- Breaking changes listed here: https://github.com/subchanyayanbachtiar/algoliasearch-client-go/wiki/Migration-guide-to-version-2.x
 
 # 1.5.0 (2016-06-01)
 - Code refactoring ahead of version 2.0.0

@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/errs"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/errs"
 )
 
 type composableFilterOption struct {

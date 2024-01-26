@@ -3,8 +3,8 @@ package personalization
 import (
 	"time"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/region"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/transport"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/region"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/transport"
 )
 
 type Configuration struct {

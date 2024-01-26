@@ -4,10 +4,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/opt"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/search"
-	"github.com/algolia/algoliasearch-client-go/v3/cts"
 	"github.com/stretchr/testify/require"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/opt"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/search"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/cts"
 )
 
 func TestAPIKeys(t *testing.T) {

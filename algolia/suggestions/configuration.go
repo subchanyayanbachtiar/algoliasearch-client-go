@@ -3,8 +3,8 @@ package suggestions
 import (
 	"time"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/region"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/transport"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/region"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/transport"
 )
 
 // Configuration contains all the different parameters one can change to

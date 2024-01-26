@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/call"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/errs"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/opt"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/call"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/errs"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/opt"
 )
 
 // GetAPIKey retrieves the API key identified by the given keyID.

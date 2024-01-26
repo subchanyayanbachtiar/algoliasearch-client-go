@@ -1,10 +1,10 @@
 package recommendation
 
 import (
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/call"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/compression"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/region"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/transport"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/call"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/compression"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/region"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/transport"
 )
 
 // Deprecated: use personalization.Client instead

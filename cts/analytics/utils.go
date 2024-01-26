@@ -3,8 +3,8 @@ package analytics
 import (
 	"testing"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/analytics"
 	"github.com/stretchr/testify/require"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/analytics"
 )
 
 func checkABTestsAreEqual(t *testing.T, a analytics.ABTest, b analytics.ABTestResponse) {

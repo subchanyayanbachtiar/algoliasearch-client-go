@@ -1,3 +1,4 @@
+//go:build !community
 // +build !community
 
 package search
@@ -9,8 +10,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/opt"
-	"github.com/algolia/algoliasearch-client-go/v3/cts"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/opt"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/cts"
 )
 
 func TestMCM(t *testing.T) {

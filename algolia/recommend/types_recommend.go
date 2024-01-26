@@ -1,6 +1,6 @@
 package recommend
 
-import "github.com/algolia/algoliasearch-client-go/v3/algolia/search"
+import "github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/search"
 
 type multipleOptions struct {
 	Requests []RecommendationsOptions `json:"requests"`

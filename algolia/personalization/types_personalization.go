@@ -1,6 +1,6 @@
 package personalization
 
-import "github.com/algolia/algoliasearch-client-go/v3/algolia/opt"
+import "github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/opt"
 
 type Strategy struct {
 	EventsScoring         []EventsScoring                  `json:"eventsScoring"`

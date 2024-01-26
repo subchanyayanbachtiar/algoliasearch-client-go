@@ -7,10 +7,10 @@
 
   <p align="center">
     <a href="https://circleci.com/gh/algolia/algoliasearch-client-go"><img src="https://circleci.com/gh/algolia/algoliasearch-client-go.svg?style=shield" alt="CircleCI" /></a>
-    <a href="https://github.com/algolia/algoliasearch-client-go/releases"><img src="https://img.shields.io/github/tag/algolia/algoliasearch-client-go.svg" alt="Github Releases"></img></a>
-    <a href="https://pkg.go.dev/github.com/algolia/algoliasearch-client-go/v3"><img src="https://pkg.go.dev/badge/github.com/algolia/algoliasearch-client-go/v3" alt="GoDoc"></img></a>
-    <a href="https://goreportcard.com/report/github.com/algolia/algoliasearch-client-go"><img src="https://goreportcard.com/badge/github.com/algolia/algoliasearch-client-go" alt="Go Report Card"></img></a>
-    <a href="https://github.com/algolia/algoliasearch-client-go/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></img></a>
+    <a href="https://github.com/subchanyayanbachtiar/algoliasearch-client-go/releases"><img src="https://img.shields.io/github/tag/algolia/algoliasearch-client-go.svg" alt="Github Releases"></img></a>
+    <a href="https://pkg.go.dev/github.com/subchanyayanbachtiar/algoliasearch-client-go/v3"><img src="https://pkg.go.dev/badge/github.com/subchanyayanbachtiar/algoliasearch-client-go/v3" alt="GoDoc"></img></a>
+    <a href="https://goreportcard.com/report/github.com/subchanyayanbachtiar/algoliasearch-client-go"><img src="https://goreportcard.com/badge/github.com/subchanyayanbachtiar/algoliasearch-client-go" alt="Go Report Card"></img></a>
+    <a href="https://github.com/subchanyayanbachtiar/algoliasearch-client-go/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></img></a>
     <img src="https://img.shields.io/badge/Go-%3E=1.11-green.svg" alt="Supported version"></img></a>
   </p>
 </p>
@@ -19,7 +19,7 @@
   <a href="https://www.algolia.com/doc/api-client/getting-started/install/go/" target="_blank">Documentation</a>  •
   <a href="https://discourse.algolia.com" target="_blank">Community Forum</a>  •
   <a href="http://stackoverflow.com/questions/tagged/algolia" target="_blank">Stack Overflow</a>  •
-  <a href="https://github.com/algolia/algoliasearch-client-go/issues" target="_blank">Report a bug</a>  •
+  <a href="https://github.com/subchanyayanbachtiar/algoliasearch-client-go/issues" target="_blank">Report a bug</a>  •
   <a href="https://www.algolia.com/doc/api-client/troubleshooting/faq/go/" target="_blank">FAQ</a>  •
   <a href="https://www.algolia.com/support" target="_blank">Support</a>
 </p>
@@ -44,7 +44,7 @@ First, add the Algolia Go API Client as a new module to your Go project:
 ```bash
 # First line is optional if your project is already defined as a Go module
 go mod init <YOUR_PROJECT_NAME>
-go get github.com/algolia/algoliasearch-client-go/v3@v3.4.0
+go get github.com/subchanyayanbachtiar/algoliasearch-client-go/v3@v3.4.0
 ```
 
 Then, create objects on your index:
@@ -52,7 +52,7 @@ Then, create objects on your index:
 ```go
 package main
 
-import "github.com/algolia/algoliasearch-client-go/v3/algolia/search"
+import "github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/search"
 
 type Contact struct {
 	ObjectID string `json:"objectID"`
@@ -78,7 +78,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/search"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/search"
 )
 
 type Contact struct {

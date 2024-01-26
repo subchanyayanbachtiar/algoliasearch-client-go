@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/call"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/call"
 )
 
 func (c *Client) GetPersonalizationStrategy(opts ...interface{}) (strategy Strategy, err error) {

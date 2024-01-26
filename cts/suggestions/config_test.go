@@ -3,10 +3,10 @@ package suggestions
 import (
 	"testing"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/suggestions"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/wait"
-	"github.com/algolia/algoliasearch-client-go/v3/cts"
 	"github.com/stretchr/testify/require"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/suggestions"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/wait"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/cts"
 )
 
 func TestConfig(t *testing.T) {

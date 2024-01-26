@@ -3,8 +3,8 @@ package recommend
 import (
 	"net/http"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/call"
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/search"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/call"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/search"
 )
 
 func (c *Client) GetRecommendations(options []RecommendationsOptions, opts ...interface{}) (res search.MultipleQueriesRes, err error) {

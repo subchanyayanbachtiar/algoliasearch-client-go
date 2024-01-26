@@ -3,7 +3,7 @@ package analytics
 import (
 	"time"
 
-	"github.com/algolia/algoliasearch-client-go/v3/algolia/search"
+	"github.com/subchanyayanbachtiar/algoliasearch-client-go/v3/algolia/search"
 )
 
 // ABTestTaskRes represents a generic task submitted to the Analytics API for an
